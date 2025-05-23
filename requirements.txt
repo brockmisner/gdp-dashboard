@@ -1,2 +1,6 @@
 streamlit
 pandas
+openai
+Pillow
+qrcode
+moviepy
